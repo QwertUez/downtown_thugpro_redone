@@ -12298,8 +12298,8 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(9201.513672,-158.806213,6541.470703)
-		:i $Angles$ = %vec3(0.015706,0.016302,0.000256)
+		:i $Pos$ = %vec3(9201.513672,-181.777588,6541.470703)
+		:i $Angles$ = %vec3(0.015706,0.014498,0.000256)
 		:i $Name$ = $TRG_Restart$
 		:i $Class$ = $Restart$
 		:i $Type$ = $Player1$
@@ -12307,7 +12307,7 @@ $dtredone_NodeArray$ =
 		:i $RestartName$ = %s(11,"P1: Restart")
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(8231.301758,279.593323,11707.696289)
+		:i $Pos$ = %vec3(8231.301758,274.979980,11707.696289)
 		:i $Angles$ = %vec3(0.015708,3.141593,0.000000)
 		:i $Name$ = $chinatp$
 		:i $Class$ = $Restart$
@@ -12332,7 +12332,7 @@ $dtredone_NodeArray$ =
 		:i $Class$ = $LevelGeometry$
 		:i $CreatedAtStart$
 		:i $CollisionMode$ = $Geometry$
-		:i $TriggerScript$ = $io_thps_scene_NullScript$
+		:i $TriggerScript$ = $1769559611_Script$
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(0.845093,1.768503,-1.502472)
@@ -12342,6 +12342,15 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 		:i $CollisionMode$ = $Geometry$
 		:i $TriggerScript$ = $io_thps_scene_NullScript$
+	:i :s}
+	:i :s{
+		:i $Pos$ = %vec3(0.845093,3.768503,-1.502472)
+		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
+		:i $Name$ = $2051522214$
+		:i $Class$ = $LevelGeometry$
+		:i $CreatedAtStart$
+		:i $CollisionMode$ = $Geometry$
+		:i $TriggerScript$ = $2051522214_Script$
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(0.845093,1.768503,-1.502472)
@@ -12359,7 +12368,7 @@ $dtredone_NodeArray$ =
 		:i $Class$ = $LevelGeometry$
 		:i $CreatedAtStart$
 		:i $CollisionMode$ = $Geometry$
-		:i $TriggerScript$ = $io_thps_scene_NullScript$
+		:i $TriggerScript$ = $3614228021_Script$
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(0.845093,1.768503,1.497528)
@@ -12377,7 +12386,7 @@ $dtredone_NodeArray$ =
 		:i $Class$ = $LevelGeometry$
 		:i $CreatedAtStart$
 		:i $CollisionMode$ = $Geometry$
-		:i $TriggerScript$ = $io_thps_scene_NullScript$
+		:i $TriggerScript$ = $4187657907_Script$
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(0.845093,1.768503,-1.502472)
@@ -12395,16 +12404,16 @@ $dtredone_NodeArray$ =
 		:i $Class$ = $LevelGeometry$
 		:i $CreatedAtStart$
 		:i $CollisionMode$ = $Geometry$
-		:i $TriggerScript$ = $io_thps_scene_NullScript$
+		:i $TriggerScript$ = $511600301_Script$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(0.845093,1.768503,-1.502472)
+		:i $Pos$ = %vec3(0.845093,3.768503,-1.502472)
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
 		:i $Name$ = $665579434$
 		:i $Class$ = $LevelGeometry$
 		:i $CreatedAtStart$
 		:i $CollisionMode$ = $Geometry$
-		:i $TriggerScript$ = $io_thps_scene_NullScript$
+		:i $TriggerScript$ = $665579434_Script$
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(0.845093,1.768503,-1.502472)
@@ -12416,7 +12425,17 @@ $dtredone_NodeArray$ =
 		:i $TriggerScript$ = $io_thps_scene_NullScript$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(8896.070312,-651.553711,6407.597168)
+		:i $Pos$ = %vec3(3986.917725,-560.315247,12425.797852)
+		:i $Angles$ = %vec3(0.000000,3.141593,0.000000)
+		:i $Name$ = $elatunnel$
+		:i $Class$ = $Restart$
+		:i $Type$ = $Player1$
+		:i $restart_types$ = :a{$Player1$$Player2$$Generic$$Multiplayer$:a}
+		:i $RestartName$ = %s(11,"P1: Restart")
+		:i $CreatedAtStart$
+	:i :s}
+	:i :s{
+		:i $Pos$ = %vec3(8896.070312,-658.499817,6407.597168)
 		:i $Angles$ = %vec3(0.015708,0.000000,0.000000)
 		:i $Name$ = $garbageelevatordown$
 		:i $Class$ = $Restart$
@@ -12426,7 +12445,7 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(8153.649414,-127.539627,5665.034668)
+		:i $Pos$ = %vec3(8153.649414,-134.640488,5665.034668)
 		:i $Angles$ = %vec3(0.015708,-0.004232,-0.000066)
 		:i $Name$ = $garbageelevatorup$
 		:i $Class$ = $Restart$
@@ -12472,8 +12491,8 @@ $dtredone_NodeArray$ =
 		:i $TriggerScript$ = $Plane_004_Script$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(12225.822266,-145.743759,6869.208984)
-		:i $Angles$ = %vec3(-0.000296,-1.589660,-0.015705)
+		:i $Pos$ = %vec3(12225.822266,-148.766495,6869.208984)
+		:i $Angles$ = %vec3(-0.000296,-1.605529,-0.015705)
 		:i $Name$ = $teleportnearbus$
 		:i $Class$ = $Restart$
 		:i $Type$ = $Player1$
@@ -12482,13 +12501,13 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(9201.513672,-158.806213,6541.470703)
-		:i $Angles$ = %vec3(0.015706,0.016302,0.000256)
+		:i $Pos$ = %vec3(9201.513672,-181.777588,6541.470703)
+		:i $Angles$ = %vec3(0.015706,0.014498,0.000256)
 		:i $Name$ = $TRG_Restart$
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(5711.258301,-11.544327,6324.870117)
+		:i $Pos$ = %vec3(5711.258301,-31.686598,6324.870117)
 		:i $Angles$ = %vec3(0.010800,0.812680,0.011407)
 		:i $Name$ = $TRG_Restart_01$
 		:i $Class$ = $Restart$
@@ -12498,7 +12517,7 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(7220.213379,-144.900223,8417.021484)
+		:i $Pos$ = %vec3(7220.213379,-161.608429,8417.021484)
 		:i $Angles$ = %vec3(0.015708,0.000000,0.000000)
 		:i $Name$ = $TRG_Restart_02$
 		:i $Class$ = $Restart$
@@ -12508,7 +12527,7 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(5287.489258,-125.068321,12441.306641)
+		:i $Pos$ = %vec3(5287.489258,-143.297501,12441.306641)
 		:i $Angles$ = %vec3(0.000128,1.562644,0.015707)
 		:i $Name$ = $TRG_Restart_03$
 		:i $Class$ = $Restart$
@@ -12518,7 +12537,7 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(9202.011719,-161.727966,10979.097656)
+		:i $Pos$ = %vec3(9202.011719,-179.113159,10979.097656)
 		:i $Angles$ = %vec3(-0.015708,3.141593,-0.000000)
 		:i $Name$ = $TRG_Restart_04$
 		:i $Class$ = $Restart$
@@ -12528,7 +12547,7 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(12054.180664,-177.183014,7510.817383)
+		:i $Pos$ = %vec3(12054.180664,-196.580292,7510.817383)
 		:i $Angles$ = %vec3(-0.000000,-1.570796,-0.015708)
 		:i $Name$ = $TRG_Restart_05$
 		:i $Class$ = $Restart$
@@ -12538,12 +12557,32 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(10388.952148,-173.714081,6315.197754)
-		:i $Angles$ = %vec3(0.000730,-1.524310,-0.015691)
+		:i $Pos$ = %vec3(10388.952148,-191.602448,6315.197754)
+		:i $Angles$ = %vec3(0.000730,-1.608411,-0.015691)
 		:i $Name$ = $TRG_Restart_06$
 		:i $Class$ = $Restart$
 		:i $Type$ = $Player1$
 		:i $restart_types$ = :a{$Player1$$Player2$$Generic$$Multiplayer$:a}
+		:i $RestartName$ = %s(11,"P1: Restart")
+		:i $CreatedAtStart$
+	:i :s}
+	:i :s{
+		:i $Pos$ = %vec3(5709.325684,-149.387070,7714.917480)
+		:i $Angles$ = %vec3(0.000000,0.000000,-0.000000)
+		:i $Name$ = $TRG_Restart_07$
+		:i $Class$ = $Restart$
+		:i $Type$ = $Player1$
+		:i $restart_types$ = :a{$Player1$$Player2$$Generic$$Multiplayer$:a}
+		:i $RestartName$ = %s(11,"P1: Restart")
+		:i $CreatedAtStart$
+	:i :s}
+	:i :s{
+		:i $Pos$ = %vec3(9202.835938,-180.429962,9056.557617)
+		:i $Angles$ = %vec3(0.000000,0.000000,-0.000000)
+		:i $Name$ = $TRG_Restart_08$
+		:i $Class$ = $Restart$
+		:i $Type$ = $Player1$
+		:i $restart_types$ = :a{$Player1$$Player2$$Multiplayer$:a}
 		:i $RestartName$ = %s(11,"P1: Restart")
 		:i $CreatedAtStart$
 	:i :s}
@@ -12790,6 +12829,36 @@ $dtredone_NodeArray$ =
 :i endfunction
 :i function $LoadAllParticleTextures$
 :i endfunction
+
+:i function $1769559611_Script$
+:i $sk3_killskater$ $nodename$ = $TRG_Restart_07$
+:i endfunction
+
+
+:i function $2051522214_Script$
+:i $sk3_killskater$ $nodename$ = $TRG_Restart_03$
+:i endfunction
+
+
+:i function $3614228021_Script$
+:i $sk3_killskater$ $nodename$ = $elatunnel$
+:i endfunction
+
+
+:i function $4187657907_Script$
+:i $sk3_killskater$ $nodename$ = $elatunnel$
+:i endfunction
+
+
+:i function $511600301_Script$
+:i $sk3_killskater$ $nodename$ = $TRG_Restart_08$
+:i endfunction
+
+
+:i function $665579434_Script$
+:i $sk3_killskater$ $nodename$ = $TRG_Restart_03$
+:i endfunction
+
 
 :i function $Plane_001_Script$
 :i $TeleportSkaterToNode$ $nodename$ = $garbageelevatorup$
