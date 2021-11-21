@@ -13195,6 +13195,44 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
+		:i $Pos$ = %vec3(6887.297363,131.056931,9087.410156)
+		:i $Class$ = $RailNode$
+		:i $Type$ = $Concrete$
+		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
+		:i $Name$ = $TRG_RailPath_21__0$
+		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
+		:i $CreatedAtStart$
+		:i $Links$ = :a{%i(1303,00001303):a}
+	:i :s}
+	:i :s{
+		:i $Pos$ = %vec3(7328.967285,127.037270,9087.577148)
+		:i $Class$ = $RailNode$
+		:i $Type$ = $Concrete$
+		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
+		:i $Name$ = $TRG_RailPath_21__1$
+		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
+		:i $CreatedAtStart$
+	:i :s}
+	:i :s{
+		:i $Pos$ = %vec3(6887.319824,131.037613,9028.971680)
+		:i $Class$ = $RailNode$
+		:i $Type$ = $Concrete$
+		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
+		:i $Name$ = $TRG_RailPath_22__0$
+		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
+		:i $CreatedAtStart$
+		:i $Links$ = :a{%i(1305,00001305):a}
+	:i :s}
+	:i :s{
+		:i $Pos$ = %vec3(7328.988770,127.017921,9029.139648)
+		:i $Class$ = $RailNode$
+		:i $Type$ = $Concrete$
+		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
+		:i $Name$ = $TRG_RailPath_22__1$
+		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
+		:i $CreatedAtStart$
+	:i :s}
+	:i :s{
 		:i $Pos$ = %vec3(8264.756836,187.255814,7890.096191)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
@@ -13462,7 +13500,7 @@ $dtredone_NodeArray$ =
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
 		:i $Name$ = $TRG_Waypoint__0$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1332,00001332):a}
+		:i $Links$ = :a{%i(1336,00001336):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8378.402344,102.133102,7731.632324)
@@ -13479,7 +13517,7 @@ $dtredone_NodeArray$ =
 		:i $Angles$ = %vec3(0.000000,3.141593,0.000000)
 		:i $Name$ = $TRG_Waypoint_01__0$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1334,00001334):a}
+		:i $Links$ = :a{%i(1338,00001338):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8306.779297,242.445511,7248.594238)
