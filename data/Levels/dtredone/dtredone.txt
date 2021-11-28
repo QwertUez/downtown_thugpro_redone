@@ -1332,7 +1332,7 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(8885.725586,65.093651,11877.119141)
+		:i $Pos$ = %vec3(8885.327148,64.939659,11689.548828)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
@@ -1522,7 +1522,7 @@ $dtredone_NodeArray$ =
 		:i $Links$ = :a{%i(148,00000148):a}
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(7589.779785,76.888199,11876.629883)
+		:i $Pos$ = %vec3(7589.813477,76.799957,11648.746094)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
