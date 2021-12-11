@@ -8504,7 +8504,7 @@ $dtredone_NodeArray$ =
 		:i $CreatedAtStart$
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(8053.416504,-97.108246,9528.048828)
+		:i $Pos$ = %vec3(8065.121094,-72.817604,9528.429688)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
@@ -8514,7 +8514,7 @@ $dtredone_NodeArray$ =
 		:i $Links$ = :a{%i(841,00000841):a}
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(8005.089355,-132.669907,9528.041992)
+		:i $Pos$ = %vec3(8053.416504,-97.108246,9528.048828)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
@@ -8524,7 +8524,7 @@ $dtredone_NodeArray$ =
 		:i $Links$ = :a{%i(842,00000842):a}
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(7400.051758,-127.163422,9527.813477)
+		:i $Pos$ = %vec3(8005.089355,-132.669907,9528.041992)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
@@ -8534,7 +8534,7 @@ $dtredone_NodeArray$ =
 		:i $Links$ = :a{%i(843,00000843):a}
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(7399.855957,-126.990410,10050.187500)
+		:i $Pos$ = %vec3(7400.051758,-127.163422,9527.813477)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
@@ -8544,26 +8544,37 @@ $dtredone_NodeArray$ =
 		:i $Links$ = :a{%i(844,00000844):a}
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(8155.449219,-133.867172,10050.474609)
+		:i $Pos$ = %vec3(7399.855957,-126.990410,10050.187500)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
 		:i $Name$ = $RailPath65__4$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
+		:i $Links$ = :a{%i(845,00000845):a}
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(8557.956055,-101.700127,9528.240234)
+		:i $Pos$ = %vec3(8155.449219,-133.867172,10050.474609)
+		:i $Class$ = $RailNode$
+		:i $Type$ = $Concrete$
+		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
+		:i $Name$ = $RailPath65__5$
+		:i $CollisionMode$ = $Geometry$
+		:i $TerrainType$ = $TERRAIN_GRINDCONC$
+		:i $CreatedAtStart$
+	:i :s}
+	:i :s{
+		:i $Pos$ = %vec3(8543.990234,-72.814613,9528.239258)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
 		:i $Name$ = $RailPath66__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(846,00000846):a}
+		:i $Links$ = :a{%i(847,00000847):a}
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(8605.627930,-138.135468,9528.268555)
+		:i $Pos$ = %vec3(8557.956055,-101.700127,9528.240234)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
@@ -8571,10 +8582,10 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(847,00000847):a}
+		:i $Links$ = :a{%i(848,00000848):a}
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(8905.614258,-140.865723,9528.384766)
+		:i $Pos$ = %vec3(8605.627930,-138.135468,9528.268555)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
@@ -8582,10 +8593,10 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(848,00000848):a}
+		:i $Links$ = :a{%i(849,00000849):a}
 	:i :s}
 	:i :s{
-		:i $Pos$ = %vec3(8905.417969,-140.692703,10050.758789)
+		:i $Pos$ = %vec3(8905.614258,-140.865723,9528.384766)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
@@ -8593,14 +8604,25 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(849,00000849):a}
+		:i $Links$ = :a{%i(850,00000850):a}
+	:i :s}
+	:i :s{
+		:i $Pos$ = %vec3(8905.417969,-140.692703,10050.758789)
+		:i $Class$ = $RailNode$
+		:i $Type$ = $Concrete$
+		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
+		:i $Name$ = $RailPath66__4$
+		:i $CollisionMode$ = $Geometry$
+		:i $TerrainType$ = $TERRAIN_GRINDCONC$
+		:i $CreatedAtStart$
+		:i $Links$ = :a{%i(851,00000851):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8455.437500,-136.597382,10050.588867)
 		:i $Class$ = $RailNode$
 		:i $Type$ = $Concrete$
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
-		:i $Name$ = $RailPath66__4$
+		:i $Name$ = $RailPath66__5$
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
@@ -8613,7 +8635,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath67__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(851,00000851):a}
+		:i $Links$ = :a{%i(853,00000853):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8059.025391,-587.204224,8818.639648)
@@ -8623,7 +8645,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath67__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(852,00000852):a}
+		:i $Links$ = :a{%i(854,00000854):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8113.323730,-533.758728,8818.643555)
@@ -8642,7 +8664,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath68__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(854,00000854):a}
+		:i $Links$ = :a{%i(856,00000856):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8178.708496,-588.043518,8818.685547)
@@ -8652,7 +8674,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath68__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(855,00000855):a}
+		:i $Links$ = :a{%i(857,00000857):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8636.162109,-596.667603,8817.121094)
@@ -8671,7 +8693,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath69__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(857,00000857):a}
+		:i $Links$ = :a{%i(859,00000859):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6350.809082,-571.408020,8816.675781)
@@ -8681,7 +8703,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath69__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(858,00000858):a}
+		:i $Links$ = :a{%i(860,00000860):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6297.487305,-517.232910,8816.637695)
@@ -8700,7 +8722,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath7__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(860,00000860):a}
+		:i $Links$ = :a{%i(862,00000862):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9743.071289,-126.702698,6766.169922)
@@ -8719,7 +8741,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath70__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(862,00000862):a}
+		:i $Links$ = :a{%i(864,00000864):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6231.227051,-573.703125,9305.711914)
@@ -8729,7 +8751,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath70__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(863,00000863):a}
+		:i $Links$ = :a{%i(865,00000865):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5435.690430,-565.109497,9306.001953)
@@ -8740,7 +8762,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(864,00000864):a}
+		:i $Links$ = :a{%i(866,00000866):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5381.916504,-564.351807,9257.767578)
@@ -8751,7 +8773,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(865,00000865):a}
+		:i $Links$ = :a{%i(867,00000867):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5378.347656,-569.390808,9247.765625)
@@ -8762,7 +8784,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(866,00000866):a}
+		:i $Links$ = :a{%i(868,00000868):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5378.347656,-563.604675,8879.439453)
@@ -8773,7 +8795,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(867,00000867):a}
+		:i $Links$ = :a{%i(869,00000869):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5436.940430,-564.336304,8815.953125)
@@ -8784,7 +8806,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(868,00000868):a}
+		:i $Links$ = :a{%i(870,00000870):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5451.174316,-567.424683,8815.904297)
@@ -8795,7 +8817,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(869,00000869):a}
+		:i $Links$ = :a{%i(871,00000871):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6231.124023,-570.568726,8816.630859)
@@ -8806,7 +8828,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(870,00000870):a}
+		:i $Links$ = :a{%i(872,00000872):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6285.487793,-517.123718,8816.632812)
@@ -8826,7 +8848,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath71__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(872,00000872):a}
+		:i $Links$ = :a{%i(874,00000874):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6350.914062,-574.002991,9305.765625)
@@ -8836,7 +8858,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath71__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(873,00000873):a}
+		:i $Links$ = :a{%i(875,00000875):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6297.061035,-520.070129,9307.450195)
@@ -8856,7 +8878,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath72__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(875,00000875):a}
+		:i $Links$ = :a{%i(877,00000877):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8118.121094,-592.165100,9306.987305)
@@ -8866,7 +8888,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath72__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(876,00000876):a}
+		:i $Links$ = :a{%i(878,00000878):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7626.645508,-587.317139,9306.801758)
@@ -8885,7 +8907,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath73__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(878,00000878):a}
+		:i $Links$ = :a{%i(880,00000880):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8237.805664,-593.004395,9307.033203)
@@ -8895,7 +8917,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath73__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(879,00000879):a}
+		:i $Links$ = :a{%i(881,00000881):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8184.483398,-538.829346,9306.995117)
@@ -8914,7 +8936,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath74__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(881,00000881):a}
+		:i $Links$ = :a{%i(883,00000883):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10077.321289,-63.451019,9530.855469)
@@ -8925,7 +8947,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(882,00000882):a}
+		:i $Links$ = :a{%i(884,00000884):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10080.633789,-63.416679,9528.669922)
@@ -8936,7 +8958,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(883,00000883):a}
+		:i $Links$ = :a{%i(885,00000885):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10082.175781,-63.370632,9525.739258)
@@ -8947,7 +8969,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(884,00000884):a}
+		:i $Links$ = :a{%i(886,00000886):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10082.253906,-63.635437,9331.487305)
@@ -8967,7 +8989,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath75__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(886,00000886):a}
+		:i $Links$ = :a{%i(888,00000888):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10016.909180,-609.294189,9307.714844)
@@ -8977,7 +8999,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath75__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(887,00000887):a}
+		:i $Links$ = :a{%i(889,00000889):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10043.033203,-606.561401,9300.459961)
@@ -8987,7 +9009,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath75__2$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(888,00000888):a}
+		:i $Links$ = :a{%i(890,00000890):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10090.953125,-607.256592,9272.233398)
@@ -8997,7 +9019,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath75__3$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(889,00000889):a}
+		:i $Links$ = :a{%i(891,00000891):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10098.041992,-609.815186,9245.725586)
@@ -9007,7 +9029,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath75__4$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(890,00000890):a}
+		:i $Links$ = :a{%i(892,00000892):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10096.740234,-607.539917,8856.841797)
@@ -9017,7 +9039,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath75__5$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(891,00000891):a}
+		:i $Links$ = :a{%i(893,00000893):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10090.361328,-606.877563,8843.847656)
@@ -9027,7 +9049,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath75__6$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(892,00000892):a}
+		:i $Links$ = :a{%i(894,00000894):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10034.066406,-606.885376,8818.266602)
@@ -9037,7 +9059,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath75__7$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(893,00000893):a}
+		:i $Links$ = :a{%i(895,00000895):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9177.703125,-601.596191,8817.326172)
@@ -9056,7 +9078,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath76__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(895,00000895):a}
+		:i $Links$ = :a{%i(897,00000897):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5345.412109,-394.128998,8868.943359)
@@ -9076,7 +9098,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath77__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(897,00000897):a}
+		:i $Links$ = :a{%i(899,00000899):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9509.526367,-57.133121,10024.833008)
@@ -9087,7 +9109,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(898,00000898):a}
+		:i $Links$ = :a{%i(900,00000900):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9509.708984,-57.293381,9540.958008)
@@ -9108,7 +9130,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(900,00000900):a}
+		:i $Links$ = :a{%i(902,00000902):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9637.102539,-62.804817,11518.695312)
@@ -9128,7 +9150,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(902,00000902):a}
+		:i $Links$ = :a{%i(904,00000904):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7281.157227,-100.040413,12700.574219)
@@ -9138,7 +9160,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(903,00000903):a}
+		:i $Links$ = :a{%i(905,00000905):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9045.773438,-116.102798,12693.740234)
@@ -9148,7 +9170,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__2$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(904,00000904):a}
+		:i $Links$ = :a{%i(906,00000906):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9137.397461,-116.939629,12684.774414)
@@ -9158,7 +9180,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__3$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(905,00000905):a}
+		:i $Links$ = :a{%i(907,00000907):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9225.466797,-117.749901,12658.121094)
@@ -9168,7 +9190,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__4$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(906,00000906):a}
+		:i $Links$ = :a{%i(908,00000908):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9306.604492,-118.502556,12614.777344)
@@ -9178,7 +9200,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__5$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(907,00000907):a}
+		:i $Links$ = :a{%i(909,00000909):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9377.750000,-119.169182,12556.428711)
@@ -9188,7 +9210,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__6$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(908,00000908):a}
+		:i $Links$ = :a{%i(910,00000910):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9436.147461,-119.723984,12485.325195)
@@ -9198,7 +9220,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__7$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(909,00000909):a}
+		:i $Links$ = :a{%i(911,00000911):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9479.552734,-120.145653,12404.155273)
@@ -9208,7 +9230,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__8$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(910,00000910):a}
+		:i $Links$ = :a{%i(912,00000912):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9506.333984,-120.418221,12316.100586)
@@ -9218,7 +9240,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__9$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(911,00000911):a}
+		:i $Links$ = :a{%i(913,00000913):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9515.367188,-120.530464,12224.543945)
@@ -9228,7 +9250,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__10$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(912,00000912):a}
+		:i $Links$ = :a{%i(914,00000914):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9515.631836,-120.764229,11518.668945)
@@ -9238,7 +9260,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath79__11$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(913,00000913):a}
+		:i $Links$ = :a{%i(915,00000915):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9515.246094,-170.539886,11209.791992)
@@ -9257,7 +9279,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath8__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(915,00000915):a}
+		:i $Links$ = :a{%i(917,00000917):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(11054.942383,-138.351700,6715.637695)
@@ -9276,7 +9298,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath80__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(917,00000917):a}
+		:i $Links$ = :a{%i(919,00000919):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5100.958496,4.113206,12915.806641)
@@ -9286,7 +9308,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath80__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(918,00000918):a}
+		:i $Links$ = :a{%i(920,00000920):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5110.477539,4.024198,12921.471680)
@@ -9296,7 +9318,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath80__2$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(919,00000919):a}
+		:i $Links$ = :a{%i(921,00000921):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5823.523926,-2.573197,12921.745117)
@@ -9306,7 +9328,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath80__3$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(920,00000920):a}
+		:i $Links$ = :a{%i(922,00000922):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5847.804199,21.206814,12921.746094)
@@ -9316,7 +9338,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath80__4$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(921,00000921):a}
+		:i $Links$ = :a{%i(923,00000923):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6168.040527,18.292328,12921.866211)
@@ -9326,7 +9348,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath80__5$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(922,00000922):a}
+		:i $Links$ = :a{%i(924,00000924):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6191.818848,-6.300057,12921.882812)
@@ -9337,7 +9359,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(923,00000923):a}
+		:i $Links$ = :a{%i(925,00000925):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6913.745605,-13.110243,12922.057617)
@@ -9348,7 +9370,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(924,00000924):a}
+		:i $Links$ = :a{%i(926,00000926):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6921.884277,-13.061583,12918.959961)
@@ -9359,7 +9381,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(925,00000925):a}
+		:i $Links$ = :a{%i(927,00000927):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6929.463379,-12.994081,12914.663086)
@@ -9379,7 +9401,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath81__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(927,00000927):a}
+		:i $Links$ = :a{%i(929,00000929):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5560.329590,-81.930748,12160.232422)
@@ -9390,7 +9412,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(928,00000928):a}
+		:i $Links$ = :a{%i(930,00000930):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5596.068359,-82.248711,12182.623047)
@@ -9401,7 +9423,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(929,00000929):a}
+		:i $Links$ = :a{%i(931,00000931):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5638.314453,-82.630417,12191.012695)
@@ -9412,7 +9434,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(930,00000930):a}
+		:i $Links$ = :a{%i(932,00000932):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6455.467773,-90.067413,12191.322266)
@@ -9432,7 +9454,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath82__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(932,00000932):a}
+		:i $Links$ = :a{%i(934,00000934):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5070.910156,-107.156357,11615.122070)
@@ -9442,7 +9464,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath82__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(933,00000933):a}
+		:i $Links$ = :a{%i(935,00000935):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4998.460449,-106.538124,11489.531250)
@@ -9452,7 +9474,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath82__2$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(934,00000934):a}
+		:i $Links$ = :a{%i(936,00000936):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4973.327148,-106.356155,11346.771484)
@@ -9462,7 +9484,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath82__3$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(935,00000935):a}
+		:i $Links$ = :a{%i(937,00000937):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4998.567383,-106.632706,11203.969727)
@@ -9472,7 +9494,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath82__4$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(936,00000936):a}
+		:i $Links$ = :a{%i(938,00000938):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5071.111816,-107.334076,11078.433594)
@@ -9482,7 +9504,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath82__5$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(937,00000937):a}
+		:i $Links$ = :a{%i(939,00000939):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5165.762207,-108.221680,10998.720703)
@@ -9501,7 +9523,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath83__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(939,00000939):a}
+		:i $Links$ = :a{%i(941,00000941):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6494.353027,22.619148,10584.237305)
@@ -9511,7 +9533,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath83__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(940,00000940):a}
+		:i $Links$ = :a{%i(942,00000942):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6485.932129,22.681961,10542.046875)
@@ -9521,7 +9543,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath83__2$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(941,00000941):a}
+		:i $Links$ = :a{%i(943,00000943):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6462.071289,22.887386,10506.225586)
@@ -9531,7 +9553,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath83__3$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(942,00000942):a}
+		:i $Links$ = :a{%i(944,00000944):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6426.269043,23.205385,10482.273438)
@@ -9541,7 +9563,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath83__4$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(943,00000943):a}
+		:i $Links$ = :a{%i(945,00000945):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6384.086426,23.586536,10473.883789)
@@ -9551,7 +9573,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath83__5$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(944,00000944):a}
+		:i $Links$ = :a{%i(946,00000946):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5580.307617,30.901800,10473.579102)
@@ -9561,7 +9583,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath83__6$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(945,00000945):a}
+		:i $Links$ = :a{%i(947,00000947):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5538.118164,31.288513,10481.937500)
@@ -9571,7 +9593,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath83__7$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(946,00000946):a}
+		:i $Links$ = :a{%i(948,00000948):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5502.298340,31.622347,10505.863281)
@@ -9581,7 +9603,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath83__8$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(947,00000947):a}
+		:i $Links$ = :a{%i(949,00000949):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5478.348633,31.852093,10541.664062)
@@ -9591,7 +9613,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath83__9$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(948,00000948):a}
+		:i $Links$ = :a{%i(950,00000950):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5469.958496,31.942259,10583.849609)
@@ -9601,7 +9623,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath83__10$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(949,00000949):a}
+		:i $Links$ = :a{%i(951,00000951):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5469.895996,32.414711,10723.337891)
@@ -9620,7 +9642,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(951,00000951):a}
+		:i $Links$ = :a{%i(953,00000953):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5860.862305,11.103733,10873.377930)
@@ -9630,7 +9652,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(952,00000952):a}
+		:i $Links$ = :a{%i(954,00000954):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5517.688477,14.226965,10873.249023)
@@ -9640,7 +9662,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__2$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(953,00000953):a}
+		:i $Links$ = :a{%i(955,00000955):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5499.369629,14.400740,10894.615234)
@@ -9650,7 +9672,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__3$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(954,00000954):a}
+		:i $Links$ = :a{%i(956,00000956):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5499.345703,14.422007,10958.930664)
@@ -9660,7 +9682,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__4$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(955,00000955):a}
+		:i $Links$ = :a{%i(957,00000957):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5459.643066,14.798273,11004.350586)
@@ -9670,7 +9692,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__5$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(956,00000956):a}
+		:i $Links$ = :a{%i(958,00000958):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5221.515137,17.030870,11203.824219)
@@ -9680,7 +9702,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__6$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(957,00000957):a}
+		:i $Links$ = :a{%i(959,00000959):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5182.866211,17.404543,11270.683594)
@@ -9690,7 +9712,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__7$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(958,00000958):a}
+		:i $Links$ = :a{%i(960,00000960):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5169.400391,17.552053,11346.802734)
@@ -9700,7 +9722,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__8$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(959,00000959):a}
+		:i $Links$ = :a{%i(961,00000961):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5182.808594,17.454939,11422.872070)
@@ -9710,7 +9732,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__9$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(960,00000960):a}
+		:i $Links$ = :a{%i(962,00000962):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5221.407715,17.125608,11489.824219)
@@ -9720,7 +9742,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__10$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(961,00000961):a}
+		:i $Links$ = :a{%i(963,00000963):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5462.386230,14.996691,11685.976562)
@@ -9730,7 +9752,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__11$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(962,00000962):a}
+		:i $Links$ = :a{%i(964,00000964):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5512.428223,14.557255,11734.872070)
@@ -9740,7 +9762,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__12$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(963,00000963):a}
+		:i $Links$ = :a{%i(965,00000965):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5512.398438,14.584127,11815.996094)
@@ -9750,7 +9772,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__13$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(964,00000964):a}
+		:i $Links$ = :a{%i(966,00000966):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5533.826660,14.396114,11837.378906)
@@ -9760,7 +9782,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath84__14$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(965,00000965):a}
+		:i $Links$ = :a{%i(967,00000967):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6240.921875,7.960773,11837.646484)
@@ -9779,7 +9801,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath85__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(967,00000967):a}
+		:i $Links$ = :a{%i(969,00000969):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4572.807617,35.184811,10629.949219)
@@ -9789,7 +9811,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath85__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(968,00000968):a}
+		:i $Links$ = :a{%i(970,00000970):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4531.099609,-25.790236,10699.765625)
@@ -9800,7 +9822,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(969,00000969):a}
+		:i $Links$ = :a{%i(971,00000971):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4478.106934,17.299614,11213.359375)
@@ -9811,7 +9833,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(970,00000970):a}
+		:i $Links$ = :a{%i(972,00000972):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4450.815430,38.897278,11513.337891)
@@ -9822,7 +9844,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(971,00000971):a}
+		:i $Links$ = :a{%i(973,00000973):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4429.377441,51.441200,11813.327148)
@@ -9833,7 +9855,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(972,00000972):a}
+		:i $Links$ = :a{%i(974,00000974):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4454.543945,40.872566,12113.339844)
@@ -9844,7 +9866,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(973,00000973):a}
+		:i $Links$ = :a{%i(975,00000975):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4481.055176,27.041414,12413.042969)
@@ -9855,7 +9877,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(974,00000974):a}
+		:i $Links$ = :a{%i(976,00000976):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4531.081543,16.582674,12594.502930)
@@ -9875,7 +9897,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath86__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(976,00000976):a}
+		:i $Links$ = :a{%i(978,00000978):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4227.026367,-491.240204,12383.995117)
@@ -9886,7 +9908,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(977,00000977):a}
+		:i $Links$ = :a{%i(979,00000979):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4227.044434,-491.256104,12335.993164)
@@ -9906,7 +9928,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath87__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(979,00000979):a}
+		:i $Links$ = :a{%i(981,00000981):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4260.775391,-491.547333,12384.007812)
@@ -9916,7 +9938,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath87__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(980,00000980):a}
+		:i $Links$ = :a{%i(982,00000982):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4262.304199,-314.965820,12668.476562)
@@ -9935,7 +9957,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath88__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(982,00000982):a}
+		:i $Links$ = :a{%i(984,00000984):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3754.546387,-486.940094,12383.815430)
@@ -9945,7 +9967,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath88__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(983,00000983):a}
+		:i $Links$ = :a{%i(985,00000985):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3756.074951,-315.404205,12661.175781)
@@ -9964,7 +9986,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath89__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(985,00000985):a}
+		:i $Links$ = :a{%i(987,00000987):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3720.797607,-486.632935,12383.802734)
@@ -9975,7 +9997,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(986,00000986):a}
+		:i $Links$ = :a{%i(988,00000988):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3720.815430,-486.648865,12335.801758)
@@ -9995,7 +10017,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath9__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(988,00000988):a}
+		:i $Links$ = :a{%i(990,00000990):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9738.515625,-126.702782,6771.380371)
@@ -10015,7 +10037,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(990,00000990):a}
+		:i $Links$ = :a{%i(992,00000992):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4262.631836,-275.459930,12674.935547)
@@ -10035,7 +10057,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath91__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(992,00000992):a}
+		:i $Links$ = :a{%i(994,00000994):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3816.415283,-50.535454,10513.881836)
@@ -10046,7 +10068,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(993,00000993):a}
+		:i $Links$ = :a{%i(995,00000995):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3831.604736,-103.860283,10714.028320)
@@ -10057,7 +10079,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(994,00000994):a}
+		:i $Links$ = :a{%i(996,00000996):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3859.035645,-165.046875,10914.185547)
@@ -10068,7 +10090,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(995,00000995):a}
+		:i $Links$ = :a{%i(997,00000997):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3893.370605,-230.046509,11114.220703)
@@ -10079,7 +10101,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(996,00000996):a}
+		:i $Links$ = :a{%i(998,00000998):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3929.268066,-294.935303,11314.254883)
@@ -10090,7 +10112,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(997,00000997):a}
+		:i $Links$ = :a{%i(999,00000999):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3961.390625,-355.727142,11514.161133)
@@ -10101,7 +10123,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(998,00000998):a}
+		:i $Links$ = :a{%i(1000,00001000):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3984.399414,-408.373230,11714.125977)
@@ -10121,7 +10143,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath92__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1000,00001000):a}
+		:i $Links$ = :a{%i(1002,00001002):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3381.533691,-313.313049,11926.492188)
@@ -10140,7 +10162,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath93__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1002,00001002):a}
+		:i $Links$ = :a{%i(1004,00001004):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4548.040039,-69.305229,12724.925781)
@@ -10150,7 +10172,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath93__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1003,00001003):a}
+		:i $Links$ = :a{%i(1005,00001005):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3384.239258,-58.378098,12724.471680)
@@ -10160,7 +10182,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath93__2$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1004,00001004):a}
+		:i $Links$ = :a{%i(1006,00001006):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3321.434326,-57.810535,12712.135742)
@@ -10170,7 +10192,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath93__3$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1005,00001005):a}
+		:i $Links$ = :a{%i(1007,00001007):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3269.950195,-57.353584,12676.678711)
@@ -10180,7 +10202,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath93__4$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1006,00001006):a}
+		:i $Links$ = :a{%i(1008,00001008):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3233.908203,-57.042290,12625.666016)
@@ -10190,7 +10212,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath93__5$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1007,00001007):a}
+		:i $Links$ = :a{%i(1009,00001009):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3221.431641,-56.949425,12562.598633)
@@ -10200,7 +10222,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath93__6$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1008,00001008):a}
+		:i $Links$ = :a{%i(1010,00001010):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3221.702637,-57.187550,11843.535156)
@@ -10210,7 +10232,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath93__7$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1009,00001009):a}
+		:i $Links$ = :a{%i(1011,00001011):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3222.165771,-9.969784,11752.083008)
@@ -10230,7 +10252,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1011,00001011):a}
+		:i $Links$ = :a{%i(1013,00001013):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3349.093262,-25.438015,11752.259766)
@@ -10250,7 +10272,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath95__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1013,00001013):a}
+		:i $Links$ = :a{%i(1015,00001015):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3325.610107,16.787319,11716.343750)
@@ -10271,7 +10293,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1015,00001015):a}
+		:i $Links$ = :a{%i(1017,00001017):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3090.725342,18.436716,11121.230469)
@@ -10291,7 +10313,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath97__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1017,00001017):a}
+		:i $Links$ = :a{%i(1019,00001019):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3323.332275,16.440556,11112.174805)
@@ -10311,7 +10333,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath98__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1019,00001019):a}
+		:i $Links$ = :a{%i(1021,00001021):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3099.238525,18.783472,11725.398438)
@@ -10330,7 +10352,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath99__0$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1021,00001021):a}
+		:i $Links$ = :a{%i(1023,00001023):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3595.964111,60.991272,10179.927734)
@@ -10340,7 +10362,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath99__1$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1022,00001022):a}
+		:i $Links$ = :a{%i(1024,00001024):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3575.342041,67.511429,10179.862305)
@@ -10350,7 +10372,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath99__2$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1023,00001023):a}
+		:i $Links$ = :a{%i(1025,00001025):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3264.055908,170.570450,10307.871094)
@@ -10360,7 +10382,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath99__3$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1024,00001024):a}
+		:i $Links$ = :a{%i(1026,00001026):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3255.610107,170.451431,10315.448242)
@@ -10370,7 +10392,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath99__4$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1025,00001025):a}
+		:i $Links$ = :a{%i(1027,00001027):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(2971.156250,172.645721,11023.115234)
@@ -10380,7 +10402,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath99__5$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1026,00001026):a}
+		:i $Links$ = :a{%i(1028,00001028):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(2969.198975,173.008591,12075.802734)
@@ -10390,7 +10412,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath99__6$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1027,00001027):a}
+		:i $Links$ = :a{%i(1029,00001029):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3129.286621,171.741196,12654.237305)
@@ -10400,7 +10422,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath99__7$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1028,00001028):a}
+		:i $Links$ = :a{%i(1030,00001030):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3398.321533,42.645088,12792.068359)
@@ -10410,7 +10432,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath99__8$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1029,00001029):a}
+		:i $Links$ = :a{%i(1031,00001031):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3656.204590,-10.350080,12908.395508)
@@ -10420,7 +10442,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $RailPath99__9$
 		:i $TerrainType$ = $TERRAIN_GRINDCONC$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1030,00001030):a}
+		:i $Links$ = :a{%i(1032,00001032):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(3674.529297,-14.013710,12906.698242)
@@ -10439,7 +10461,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1032,00001032):a}
+		:i $Links$ = :a{%i(1034,00001034):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10281.713867,-78.645660,6450.191406)
@@ -10458,7 +10480,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_001__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1034,00001034):a}
+		:i $Links$ = :a{%i(1036,00001036):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10281.676758,-78.612129,6551.440918)
@@ -10477,7 +10499,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_01__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1036,00001036):a}
+		:i $Links$ = :a{%i(1038,00001038):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10586.667969,-85.384285,6944.433105)
@@ -10487,7 +10509,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_01__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1037,00001037):a}
+		:i $Links$ = :a{%i(1039,00001039):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10291.069336,-140.437149,6944.381836)
@@ -10507,7 +10529,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1039,00001039):a}
+		:i $Links$ = :a{%i(1041,00001041):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10595.873047,-481.890106,7640.448242)
@@ -10518,7 +10540,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1040,00001040):a}
+		:i $Links$ = :a{%i(1042,00001042):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10588.279297,-478.131958,7644.694336)
@@ -10529,7 +10551,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1041,00001041):a}
+		:i $Links$ = :a{%i(1043,00001043):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10564.069336,-466.219238,7658.056152)
@@ -10540,7 +10562,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1042,00001042):a}
+		:i $Links$ = :a{%i(1044,00001044):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10536.807617,-452.839050,7678.041504)
@@ -10551,7 +10573,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1043,00001043):a}
+		:i $Links$ = :a{%i(1045,00001045):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10504.136719,-436.788300,7686.524414)
@@ -10562,7 +10584,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1044,00001044):a}
+		:i $Links$ = :a{%i(1046,00001046):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10365.937500,-368.840240,7686.387207)
@@ -10573,7 +10595,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1045,00001045):a}
+		:i $Links$ = :a{%i(1047,00001047):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10332.527344,-352.351532,7675.619629)
@@ -10584,7 +10606,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1046,00001046):a}
+		:i $Links$ = :a{%i(1048,00001048):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10306.961914,-339.813568,7652.167969)
@@ -10595,7 +10617,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1047,00001047):a}
+		:i $Links$ = :a{%i(1049,00001049):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10273.302734,-323.260468,7640.274902)
@@ -10606,7 +10628,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1048,00001048):a}
+		:i $Links$ = :a{%i(1050,00001050):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9994.788086,-186.282593,7640.062500)
@@ -10617,7 +10639,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1049,00001049):a}
+		:i $Links$ = :a{%i(1051,00001051):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9409.463867,-178.080414,7639.839844)
@@ -10638,7 +10660,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1051,00001051):a}
+		:i $Links$ = :a{%i(1053,00001053):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10596.483398,-481.945770,7480.109863)
@@ -10649,7 +10671,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1052,00001052):a}
+		:i $Links$ = :a{%i(1054,00001054):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10569.545898,-468.705200,7464.470215)
@@ -10660,7 +10682,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1053,00001053):a}
+		:i $Links$ = :a{%i(1055,00001055):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10539.562500,-453.938843,7442.767090)
@@ -10671,7 +10693,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1054,00001054):a}
+		:i $Links$ = :a{%i(1056,00001056):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10504.780273,-436.874512,7433.935059)
@@ -10682,7 +10704,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1055,00001055):a}
+		:i $Links$ = :a{%i(1057,00001057):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10364.528320,-367.907623,7434.235352)
@@ -10693,7 +10715,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1056,00001056):a}
+		:i $Links$ = :a{%i(1058,00001058):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10331.047852,-351.411224,7444.966797)
@@ -10704,7 +10726,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1057,00001057):a}
+		:i $Links$ = :a{%i(1059,00001059):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10302.727539,-337.457123,7470.076660)
@@ -10715,7 +10737,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1058,00001058):a}
+		:i $Links$ = :a{%i(1060,00001060):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10273.913086,-323.316132,7479.999023)
@@ -10726,7 +10748,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1059,00001059):a}
+		:i $Links$ = :a{%i(1061,00001061):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9995.397461,-186.338257,7479.848633)
@@ -10737,7 +10759,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1060,00001060):a}
+		:i $Links$ = :a{%i(1062,00001062):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9410.073242,-178.136017,7479.625977)
@@ -10758,7 +10780,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1062,00001062):a}
+		:i $Links$ = :a{%i(1064,00001064):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10596.483398,-483.256134,7563.523926)
@@ -10769,7 +10791,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1063,00001063):a}
+		:i $Links$ = :a{%i(1065,00001065):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10537.227539,-453.754944,7601.392090)
@@ -10780,7 +10802,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1064,00001064):a}
+		:i $Links$ = :a{%i(1066,00001066):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10505.881836,-436.675812,7609.613281)
@@ -10791,7 +10813,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1065,00001065):a}
+		:i $Links$ = :a{%i(1067,00001067):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10366.322266,-367.713348,7609.429199)
@@ -10802,7 +10824,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1066,00001066):a}
+		:i $Links$ = :a{%i(1068,00001068):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10334.186523,-352.118988,7598.748535)
@@ -10813,7 +10835,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1067,00001067):a}
+		:i $Links$ = :a{%i(1069,00001069):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10305.988281,-339.843079,7575.743164)
@@ -10824,7 +10846,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1068,00001068):a}
+		:i $Links$ = :a{%i(1070,00001070):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10273.913086,-324.626465,7563.413086)
@@ -10835,7 +10857,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1069,00001069):a}
+		:i $Links$ = :a{%i(1071,00001071):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9995.397461,-187.648636,7563.262695)
@@ -10846,7 +10868,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1070,00001070):a}
+		:i $Links$ = :a{%i(1072,00001072):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9410.073242,-179.446381,7563.040039)
@@ -10857,7 +10879,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1071,00001071):a}
+		:i $Links$ = :a{%i(1073,00001073):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9995.397461,-187.648636,7563.262695)
@@ -10868,7 +10890,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1072,00001072):a}
+		:i $Links$ = :a{%i(1074,00001074):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10273.913086,-324.626465,7563.413086)
@@ -10879,7 +10901,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1073,00001073):a}
+		:i $Links$ = :a{%i(1075,00001075):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10305.988281,-339.843079,7575.743652)
@@ -10890,7 +10912,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1074,00001074):a}
+		:i $Links$ = :a{%i(1076,00001076):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10334.186523,-352.118988,7598.749023)
@@ -10901,7 +10923,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1075,00001075):a}
+		:i $Links$ = :a{%i(1077,00001077):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10366.322266,-367.713348,7609.429199)
@@ -10912,7 +10934,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1076,00001076):a}
+		:i $Links$ = :a{%i(1078,00001078):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10505.881836,-436.675812,7609.613281)
@@ -10923,7 +10945,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1077,00001077):a}
+		:i $Links$ = :a{%i(1079,00001079):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10537.227539,-453.754944,7601.391602)
@@ -10934,7 +10956,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1078,00001078):a}
+		:i $Links$ = :a{%i(1080,00001080):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10596.483398,-483.256134,7563.523926)
@@ -10945,7 +10967,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1079,00001079):a}
+		:i $Links$ = :a{%i(1081,00001081):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10569.545898,-470.015564,7547.884277)
@@ -10956,7 +10978,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1080,00001080):a}
+		:i $Links$ = :a{%i(1082,00001082):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10539.562500,-455.249207,7526.181152)
@@ -10967,7 +10989,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1081,00001081):a}
+		:i $Links$ = :a{%i(1083,00001083):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10504.780273,-438.184875,7517.349121)
@@ -10978,7 +11000,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1082,00001082):a}
+		:i $Links$ = :a{%i(1084,00001084):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10364.528320,-369.217987,7517.649414)
@@ -10989,7 +11011,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1083,00001083):a}
+		:i $Links$ = :a{%i(1085,00001085):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10331.047852,-352.721588,7528.380859)
@@ -11000,7 +11022,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1084,00001084):a}
+		:i $Links$ = :a{%i(1086,00001086):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10302.727539,-338.767487,7553.490723)
@@ -11011,7 +11033,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1085,00001085):a}
+		:i $Links$ = :a{%i(1087,00001087):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10273.913086,-324.626495,7563.413086)
@@ -11022,7 +11044,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1086,00001086):a}
+		:i $Links$ = :a{%i(1088,00001088):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9995.397461,-187.648621,7563.262695)
@@ -11033,7 +11055,7 @@ $dtredone_NodeArray$ =
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
 		:i $TriggerScript$ = $scn_305592172Script$
-		:i $Links$ = :a{%i(1087,00001087):a}
+		:i $Links$ = :a{%i(1089,00001089):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9410.073242,-179.446381,7563.040039)
@@ -11053,7 +11075,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_04__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1089,00001089):a}
+		:i $Links$ = :a{%i(1091,00001091):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6508.941406,105.975632,8061.776367)
@@ -11063,7 +11085,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_04__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1090,00001090):a}
+		:i $Links$ = :a{%i(1092,00001092):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6510.699707,97.952881,8050.064453)
@@ -11073,7 +11095,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_04__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1091,00001091):a}
+		:i $Links$ = :a{%i(1093,00001093):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6510.893066,97.618477,7485.369629)
@@ -11084,7 +11106,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1092,00001092):a}
+		:i $Links$ = :a{%i(1094,00001094):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6509.165039,105.778427,7466.339355)
@@ -11095,7 +11117,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1093,00001093):a}
+		:i $Links$ = :a{%i(1095,00001095):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6509.172363,105.771782,7446.276367)
@@ -11115,7 +11137,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_04_001__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1095,00001095):a}
+		:i $Links$ = :a{%i(1097,00001097):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6521.591309,105.975632,8061.776367)
@@ -11125,7 +11147,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_04_001__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1096,00001096):a}
+		:i $Links$ = :a{%i(1098,00001098):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6519.833008,97.952881,8050.064453)
@@ -11135,7 +11157,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_04_001__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1097,00001097):a}
+		:i $Links$ = :a{%i(1099,00001099):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6519.639648,97.618477,7485.369629)
@@ -11146,7 +11168,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1098,00001098):a}
+		:i $Links$ = :a{%i(1100,00001100):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6521.367676,105.778427,7466.339355)
@@ -11157,7 +11179,7 @@ $dtredone_NodeArray$ =
 		:i $CollisionMode$ = $Geometry$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1099,00001099):a}
+		:i $Links$ = :a{%i(1101,00001101):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6521.360352,105.771782,7446.276367)
@@ -11177,7 +11199,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_05__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1101,00001101):a}
+		:i $Links$ = :a{%i(1103,00001103):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8460.300781,133.690125,9441.345703)
@@ -11196,7 +11218,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_05_001__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1103,00001103):a}
+		:i $Links$ = :a{%i(1105,00001105):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7710.384277,140.426498,9441.089844)
@@ -11215,7 +11237,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1105,00001105):a}
+		:i $Links$ = :a{%i(1107,00001107):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6753.594727,-112.406487,10856.692383)
@@ -11225,7 +11247,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1106,00001106):a}
+		:i $Links$ = :a{%i(1108,00001108):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6480.558105,15.333619,10856.547852)
@@ -11235,7 +11257,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1107,00001107):a}
+		:i $Links$ = :a{%i(1109,00001109):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6435.622559,15.742587,10856.530273)
@@ -11254,7 +11276,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_001__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1109,00001109):a}
+		:i $Links$ = :a{%i(1111,00001111):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6753.594727,-112.450630,10964.766602)
@@ -11264,7 +11286,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_001__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1110,00001110):a}
+		:i $Links$ = :a{%i(1112,00001112):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6480.558105,15.289475,10964.622070)
@@ -11274,7 +11296,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_001__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1111,00001111):a}
+		:i $Links$ = :a{%i(1113,00001113):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6435.622559,15.698443,10964.604492)
@@ -11293,7 +11315,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_002__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1113,00001113):a}
+		:i $Links$ = :a{%i(1115,00001115):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6753.594727,-112.363892,11114.430664)
@@ -11303,7 +11325,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_002__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1114,00001114):a}
+		:i $Links$ = :a{%i(1116,00001116):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6480.558105,15.376214,11114.286133)
@@ -11313,7 +11335,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_002__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1115,00001115):a}
+		:i $Links$ = :a{%i(1117,00001117):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6435.622559,15.785182,11114.268555)
@@ -11332,7 +11354,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_003__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1117,00001117):a}
+		:i $Links$ = :a{%i(1119,00001119):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6753.594727,-112.338425,11246.515625)
@@ -11342,7 +11364,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_003__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1118,00001118):a}
+		:i $Links$ = :a{%i(1120,00001120):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6480.558105,15.401681,11246.371094)
@@ -11352,7 +11374,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_003__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1119,00001119):a}
+		:i $Links$ = :a{%i(1121,00001121):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6435.622559,15.810649,11246.353516)
@@ -11371,7 +11393,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_004__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1121,00001121):a}
+		:i $Links$ = :a{%i(1123,00001123):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6753.594727,-112.356514,11378.555664)
@@ -11381,7 +11403,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_004__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1122,00001122):a}
+		:i $Links$ = :a{%i(1124,00001124):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6480.558105,15.383592,11378.411133)
@@ -11391,7 +11413,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_004__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1123,00001123):a}
+		:i $Links$ = :a{%i(1125,00001125):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6435.622559,15.792560,11378.393555)
@@ -11410,7 +11432,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_005__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1125,00001125):a}
+		:i $Links$ = :a{%i(1127,00001127):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6753.594727,-112.599670,11510.586914)
@@ -11420,7 +11442,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_005__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1126,00001126):a}
+		:i $Links$ = :a{%i(1128,00001128):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6480.558105,15.140435,11510.442383)
@@ -11430,7 +11452,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_005__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1127,00001127):a}
+		:i $Links$ = :a{%i(1129,00001129):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6435.622559,15.549403,11510.424805)
@@ -11449,7 +11471,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_006__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1129,00001129):a}
+		:i $Links$ = :a{%i(1131,00001131):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6753.594727,-112.159920,11642.458008)
@@ -11459,7 +11481,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_006__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1130,00001130):a}
+		:i $Links$ = :a{%i(1132,00001132):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6480.558105,15.580186,11642.313477)
@@ -11469,7 +11491,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_006__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1131,00001131):a}
+		:i $Links$ = :a{%i(1133,00001133):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6435.622559,15.989154,11642.295898)
@@ -11488,7 +11510,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_007__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1133,00001133):a}
+		:i $Links$ = :a{%i(1135,00001135):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6753.577148,-111.907784,11762.673828)
@@ -11498,7 +11520,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_007__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1134,00001134):a}
+		:i $Links$ = :a{%i(1136,00001136):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6480.540527,15.832322,11762.529297)
@@ -11508,7 +11530,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_007__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1135,00001135):a}
+		:i $Links$ = :a{%i(1137,00001137):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6435.604980,16.241291,11762.511719)
@@ -11527,7 +11549,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_008__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1137,00001137):a}
+		:i $Links$ = :a{%i(1139,00001139):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6753.577148,-112.048164,11869.558594)
@@ -11537,7 +11559,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_008__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1138,00001138):a}
+		:i $Links$ = :a{%i(1140,00001140):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6480.540527,15.691941,11869.414062)
@@ -11547,7 +11569,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_06_008__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1139,00001139):a}
+		:i $Links$ = :a{%i(1141,00001141):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6435.604980,16.100910,11869.396484)
@@ -11566,7 +11588,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_07__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1141,00001141):a}
+		:i $Links$ = :a{%i(1143,00001143):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5301.190430,266.320312,7048.787598)
@@ -11585,7 +11607,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_08__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1143,00001143):a}
+		:i $Links$ = :a{%i(1145,00001145):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5310.480957,273.222900,7540.018066)
@@ -11595,7 +11617,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_08__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1144,00001144):a}
+		:i $Links$ = :a{%i(1146,00001146):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5310.430664,272.767609,6366.899902)
@@ -11605,7 +11627,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_08__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1145,00001145):a}
+		:i $Links$ = :a{%i(1147,00001147):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5325.858398,272.767609,6353.369629)
@@ -11625,7 +11647,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1147,00001147):a}
+		:i $Links$ = :a{%i(1149,00001149):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4878.346680,276.798004,6461.545410)
@@ -11635,7 +11657,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1148,00001148):a}
+		:i $Links$ = :a{%i(1150,00001150):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4882.917480,276.748840,6438.484375)
@@ -11645,7 +11667,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1149,00001149):a}
+		:i $Links$ = :a{%i(1151,00001151):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4896.111816,276.622314,6418.802734)
@@ -11655,7 +11677,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__3$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1150,00001150):a}
+		:i $Links$ = :a{%i(1152,00001152):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4915.115723,276.445190,6406.122070)
@@ -11665,7 +11687,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__4$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1151,00001151):a}
+		:i $Links$ = :a{%i(1153,00001153):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4938.366699,276.232056,6401.443359)
@@ -11675,7 +11697,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__5$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1152,00001152):a}
+		:i $Links$ = :a{%i(1154,00001154):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5214.292480,273.720825,6401.547852)
@@ -11685,7 +11707,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__6$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1153,00001153):a}
+		:i $Links$ = :a{%i(1155,00001155):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5237.415527,273.511871,6406.056152)
@@ -11695,7 +11717,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__7$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1154,00001154):a}
+		:i $Links$ = :a{%i(1156,00001156):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5257.096680,273.337067,6419.313477)
@@ -11705,7 +11727,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__8$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1155,00001155):a}
+		:i $Links$ = :a{%i(1157,00001157):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5269.776855,273.227905,6438.255859)
@@ -11715,7 +11737,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__9$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1156,00001156):a}
+		:i $Links$ = :a{%i(1158,00001158):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5274.518066,273.192352,6461.570312)
@@ -11725,7 +11747,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__10$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1157,00001157):a}
+		:i $Links$ = :a{%i(1159,00001159):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5274.148438,273.518219,7445.507812)
@@ -11735,7 +11757,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__11$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1158,00001158):a}
+		:i $Links$ = :a{%i(1160,00001160):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5269.577637,273.567383,7468.505859)
@@ -11745,7 +11767,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__12$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1159,00001159):a}
+		:i $Links$ = :a{%i(1161,00001161):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5256.382812,273.693878,7488.188965)
@@ -11755,7 +11777,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__13$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1160,00001160):a}
+		:i $Links$ = :a{%i(1162,00001162):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5237.378906,273.871033,7500.869141)
@@ -11765,7 +11787,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__14$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1161,00001161):a}
+		:i $Links$ = :a{%i(1163,00001163):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5214.128418,274.084137,7505.547363)
@@ -11775,7 +11797,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__15$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1162,00001162):a}
+		:i $Links$ = :a{%i(1164,00001164):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4938.202148,276.595367,7505.442871)
@@ -11785,7 +11807,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__16$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1163,00001163):a}
+		:i $Links$ = :a{%i(1165,00001165):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4915.017578,276.804932,7500.934082)
@@ -11795,7 +11817,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__17$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1164,00001164):a}
+		:i $Links$ = :a{%i(1166,00001166):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4895.397949,276.979156,7487.739258)
@@ -11805,7 +11827,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__18$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1165,00001165):a}
+		:i $Links$ = :a{%i(1167,00001167):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4882.655762,277.088928,7468.734863)
@@ -11815,7 +11837,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_09__19$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1166,00001166):a}
+		:i $Links$ = :a{%i(1168,00001168):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(4877.977051,277.123840,7445.419922)
@@ -11834,7 +11856,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_10__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1168,00001168):a}
+		:i $Links$ = :a{%i(1170,00001170):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8719.409180,269.654877,11996.551758)
@@ -11844,7 +11866,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_10__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1169,00001169):a}
+		:i $Links$ = :a{%i(1171,00001171):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8839.573242,268.521912,11876.596680)
@@ -11854,7 +11876,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_10__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1170,00001170):a}
+		:i $Links$ = :a{%i(1172,00001172):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8839.458984,268.404846,11516.222656)
@@ -11864,7 +11886,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_10__3$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1171,00001171):a}
+		:i $Links$ = :a{%i(1173,00001173):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8719.508789,269.457458,11396.990234)
@@ -11874,7 +11896,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_10__4$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1172,00001172):a}
+		:i $Links$ = :a{%i(1174,00001174):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7759.548340,278.193878,11395.813477)
@@ -11884,7 +11906,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_10__5$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1173,00001173):a}
+		:i $Links$ = :a{%i(1175,00001175):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7639.510254,279.388184,11515.768555)
@@ -11894,7 +11916,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_10__6$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1174,00001174):a}
+		:i $Links$ = :a{%i(1176,00001176):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7639.624512,279.505432,11876.580078)
@@ -11904,7 +11926,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_10__7$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1175,00001175):a}
+		:i $Links$ = :a{%i(1177,00001177):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7759.449219,278.391663,11996.438477)
@@ -11923,7 +11945,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_11__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1177,00001177):a}
+		:i $Links$ = :a{%i(1179,00001179):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8718.840820,209.739853,12056.821289)
@@ -11933,7 +11955,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_11__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1178,00001178):a}
+		:i $Links$ = :a{%i(1180,00001180):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8899.025391,208.041016,11877.014648)
@@ -11943,7 +11965,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_11__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1179,00001179):a}
+		:i $Links$ = :a{%i(1181,00001181):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8898.912109,207.923782,11516.202148)
@@ -11953,7 +11975,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_11__3$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1180,00001180):a}
+		:i $Links$ = :a{%i(1182,00001182):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8718.986328,209.502563,11337.008789)
@@ -11963,7 +11985,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_11__4$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1181,00001181):a}
+		:i $Links$ = :a{%i(1183,00001183):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7759.026855,218.238968,11335.772461)
@@ -11973,7 +11995,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_11__5$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1182,00001182):a}
+		:i $Links$ = :a{%i(1184,00001184):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7578.967285,219.936752,11515.764648)
@@ -11983,7 +12005,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_11__6$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1183,00001183):a}
+		:i $Links$ = :a{%i(1185,00001185):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7579.081055,220.053955,11876.577148)
@@ -11993,7 +12015,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_11__7$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1184,00001184):a}
+		:i $Links$ = :a{%i(1186,00001186):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7758.881348,218.476517,12056.521484)
@@ -12003,7 +12025,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_11__8$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1185,00001185):a}
+		:i $Links$ = :a{%i(1187,00001187):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7767.292480,218.397812,12056.521484)
@@ -12022,7 +12044,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_12__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1187,00001187):a}
+		:i $Links$ = :a{%i(1189,00001189):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7418.096680,110.896957,7704.343262)
@@ -12041,7 +12063,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_12_001__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1189,00001189):a}
+		:i $Links$ = :a{%i(1191,00001191):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7418.096680,110.896957,7656.129395)
@@ -12060,7 +12082,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_12_002__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1191,00001191):a}
+		:i $Links$ = :a{%i(1193,00001193):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7418.096680,110.896957,7608.225098)
@@ -12079,7 +12101,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_12_003__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1193,00001193):a}
+		:i $Links$ = :a{%i(1195,00001195):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7418.096680,110.896957,7560.011230)
@@ -12098,7 +12120,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_12_004__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1195,00001195):a}
+		:i $Links$ = :a{%i(1197,00001197):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7418.096680,110.896957,7512.772949)
@@ -12117,7 +12139,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_12_005__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1197,00001197):a}
+		:i $Links$ = :a{%i(1199,00001199):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7418.096680,110.896957,7464.559082)
@@ -12136,7 +12158,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_12_006__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1199,00001199):a}
+		:i $Links$ = :a{%i(1201,00001201):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7418.096680,110.896957,7416.654785)
@@ -12155,7 +12177,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_12_007__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1201,00001201):a}
+		:i $Links$ = :a{%i(1203,00001203):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7418.096680,110.896957,7368.440918)
@@ -12174,7 +12196,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_12_008__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1203,00001203):a}
+		:i $Links$ = :a{%i(1205,00001205):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7418.096680,110.896957,7321.539062)
@@ -12193,7 +12215,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_12_009__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1205,00001205):a}
+		:i $Links$ = :a{%i(1207,00001207):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7418.096680,110.896957,7273.325195)
@@ -12212,7 +12234,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_13__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1207,00001207):a}
+		:i $Links$ = :a{%i(1209,00001209):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8131.674805,-133.573517,10286.088867)
@@ -12231,7 +12253,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_14__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1209,00001209):a}
+		:i $Links$ = :a{%i(1211,00001211):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8259.955078,126.074921,9691.551758)
@@ -12241,7 +12263,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_14__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1210,00001210):a}
+		:i $Links$ = :a{%i(1212,00001212):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8259.967773,126.063843,9658.239258)
@@ -12260,7 +12282,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_14_001__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1212,00001212):a}
+		:i $Links$ = :a{%i(1214,00001214):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8355.950195,125.201218,9691.586914)
@@ -12270,7 +12292,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_14_001__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1213,00001213):a}
+		:i $Links$ = :a{%i(1215,00001215):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8355.963867,125.190201,9658.275391)
@@ -12289,7 +12311,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_15__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1215,00001215):a}
+		:i $Links$ = :a{%i(1217,00001217):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10098.512695,186.300262,7697.240723)
@@ -12299,7 +12321,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_15__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1216,00001216):a}
+		:i $Links$ = :a{%i(1218,00001218):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9937.067383,231.335663,7653.531250)
@@ -12318,7 +12340,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_16__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1218,00001218):a}
+		:i $Links$ = :a{%i(1220,00001220):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(10099.814453,186.086182,7414.721191)
@@ -12328,7 +12350,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_16__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1219,00001219):a}
+		:i $Links$ = :a{%i(1221,00001221):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(9937.142578,231.269348,7458.056641)
@@ -12347,7 +12369,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1221,00001221):a}
+		:i $Links$ = :a{%i(1223,00001223):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6796.104004,-140.867661,11968.340820)
@@ -12357,7 +12379,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1222,00001222):a}
+		:i $Links$ = :a{%i(1224,00001224):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6772.159668,-134.649475,11968.329102)
@@ -12367,7 +12389,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1223,00001223):a}
+		:i $Links$ = :a{%i(1225,00001225):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6512.746094,68.344727,11968.166016)
@@ -12377,7 +12399,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__3$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1224,00001224):a}
+		:i $Links$ = :a{%i(1226,00001226):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6486.186523,82.462036,11968.150391)
@@ -12387,7 +12409,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__4$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1225,00001225):a}
+		:i $Links$ = :a{%i(1227,00001227):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5492.976562,91.376343,11967.775391)
@@ -12397,7 +12419,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__5$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1226,00001226):a}
+		:i $Links$ = :a{%i(1228,00001228):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5450.730469,91.758087,11959.383789)
@@ -12407,7 +12429,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__6$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1227,00001227):a}
+		:i $Links$ = :a{%i(1229,00001229):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5414.929688,92.076080,11935.431641)
@@ -12417,7 +12439,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__7$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1228,00001228):a}
+		:i $Links$ = :a{%i(1230,00001230):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5391.069336,92.281494,11899.672852)
@@ -12427,7 +12449,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__8$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1229,00001229):a}
+		:i $Links$ = :a{%i(1231,00001231):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5382.709961,92.343719,11857.420898)
@@ -12437,7 +12459,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__9$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1230,00001230):a}
+		:i $Links$ = :a{%i(1232,00001232):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5382.738281,92.318604,11791.416016)
@@ -12447,7 +12469,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__10$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1231,00001231):a}
+		:i $Links$ = :a{%i(1233,00001233):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5378.889648,92.318604,11780.969727)
@@ -12457,7 +12479,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__11$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1232,00001232):a}
+		:i $Links$ = :a{%i(1234,00001234):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5370.764648,92.424255,11771.429688)
@@ -12467,7 +12489,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__12$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1233,00001233):a}
+		:i $Links$ = :a{%i(1235,00001235):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5277.456055,99.247986,11693.003906)
@@ -12477,7 +12499,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__13$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1234,00001234):a}
+		:i $Links$ = :a{%i(1236,00001236):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5230.919434,135.160126,11653.599609)
@@ -12487,7 +12509,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__14$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1235,00001235):a}
+		:i $Links$ = :a{%i(1237,00001237):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5214.687500,191.430573,11639.511719)
@@ -12497,7 +12519,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__15$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1236,00001236):a}
+		:i $Links$ = :a{%i(1238,00001238):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5129.655273,192.181061,11568.041992)
@@ -12507,7 +12529,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__16$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1237,00001237):a}
+		:i $Links$ = :a{%i(1239,00001239):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5069.884277,192.691071,11464.458008)
@@ -12517,7 +12539,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__17$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1238,00001238):a}
+		:i $Links$ = :a{%i(1240,00001240):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5049.178711,192.840912,11346.700195)
@@ -12527,7 +12549,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__18$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1239,00001239):a}
+		:i $Links$ = :a{%i(1241,00001241):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5069.972168,192.613068,11228.894531)
@@ -12537,7 +12559,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__19$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1240,00001240):a}
+		:i $Links$ = :a{%i(1242,00001242):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5129.820801,192.034424,11125.355469)
@@ -12547,7 +12569,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__20$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1241,00001241):a}
+		:i $Links$ = :a{%i(1243,00001243):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5214.907227,191.236664,11053.950195)
@@ -12557,7 +12579,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__21$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1242,00001242):a}
+		:i $Links$ = :a{%i(1244,00001244):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5231.149902,134.956879,11039.911133)
@@ -12567,7 +12589,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__22$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1243,00001243):a}
+		:i $Links$ = :a{%i(1245,00001245):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5277.715332,99.018677,11000.568359)
@@ -12577,7 +12599,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__23$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1244,00001244):a}
+		:i $Links$ = :a{%i(1246,00001246):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5345.429199,92.383545,10943.719727)
@@ -12587,7 +12609,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__24$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1245,00001245):a}
+		:i $Links$ = :a{%i(1247,00001247):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5374.179688,92.113983,10919.618164)
@@ -12597,7 +12619,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__25$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1246,00001246):a}
+		:i $Links$ = :a{%i(1248,00001248):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5380.232422,92.113983,10910.807617)
@@ -12607,7 +12629,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__26$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1247,00001247):a}
+		:i $Links$ = :a{%i(1249,00001249):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5383.069824,92.027618,10899.032227)
@@ -12617,7 +12639,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__27$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1248,00001248):a}
+		:i $Links$ = :a{%i(1250,00001250):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5383.086914,92.011108,10853.045898)
@@ -12627,7 +12649,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__28$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1249,00001249):a}
+		:i $Links$ = :a{%i(1251,00001251):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5391.478027,91.920898,10810.798828)
@@ -12637,7 +12659,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__29$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1250,00001250):a}
+		:i $Links$ = :a{%i(1252,00001252):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5415.364746,91.691772,10775.058594)
@@ -12647,7 +12669,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__30$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1251,00001251):a}
+		:i $Links$ = :a{%i(1253,00001253):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5451.184570,91.357941,10751.133789)
@@ -12657,7 +12679,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__31$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1252,00001252):a}
+		:i $Links$ = :a{%i(1254,00001254):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5493.436523,90.970642,10742.775391)
@@ -12667,7 +12689,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__32$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1253,00001253):a}
+		:i $Links$ = :a{%i(1255,00001255):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6486.645996,82.056335,10743.151367)
@@ -12677,7 +12699,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__33$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1254,00001254):a}
+		:i $Links$ = :a{%i(1256,00001256):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6513.205566,67.939026,10743.166016)
@@ -12687,7 +12709,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__34$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1255,00001255):a}
+		:i $Links$ = :a{%i(1257,00001257):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6772.682129,-135.055740,10743.329102)
@@ -12697,7 +12719,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__35$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1256,00001256):a}
+		:i $Links$ = :a{%i(1258,00001258):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6796.626953,-141.273941,10743.341797)
@@ -12707,7 +12729,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_17__36$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1257,00001257):a}
+		:i $Links$ = :a{%i(1259,00001259):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6818.750488,-141.475281,10743.349609)
@@ -12726,7 +12748,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1259,00001259):a}
+		:i $Links$ = :a{%i(1261,00001261):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6796.127441,-140.888260,11906.152344)
@@ -12736,7 +12758,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__1$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1260,00001260):a}
+		:i $Links$ = :a{%i(1262,00001262):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6772.182617,-134.670090,11906.142578)
@@ -12746,7 +12768,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__2$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1261,00001261):a}
+		:i $Links$ = :a{%i(1263,00001263):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6512.770020,68.324142,11905.977539)
@@ -12756,7 +12778,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__3$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1262,00001262):a}
+		:i $Links$ = :a{%i(1264,00001264):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6486.209473,82.441467,11905.963867)
@@ -12766,7 +12788,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__4$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1263,00001263):a}
+		:i $Links$ = :a{%i(1265,00001265):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5492.999512,91.355743,11905.586914)
@@ -12776,7 +12798,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__5$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1264,00001264):a}
+		:i $Links$ = :a{%i(1266,00001266):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5464.673828,91.610443,11896.116211)
@@ -12786,7 +12808,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__6$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1265,00001265):a}
+		:i $Links$ = :a{%i(1267,00001267):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5454.484863,91.699951,11886.302734)
@@ -12796,7 +12818,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__7$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1266,00001266):a}
+		:i $Links$ = :a{%i(1268,00001268):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5444.895020,91.777740,11857.445312)
@@ -12806,7 +12828,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__8$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1267,00001267):a}
+		:i $Links$ = :a{%i(1269,00001269):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5444.921875,91.754089,11785.849609)
@@ -12816,7 +12838,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__9$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1268,00001268):a}
+		:i $Links$ = :a{%i(1270,00001270):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5441.580078,91.781769,11777.579102)
@@ -12826,7 +12848,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__10$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1269,00001269):a}
+		:i $Links$ = :a{%i(1271,00001271):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5413.625488,92.025391,11744.744141)
@@ -12836,7 +12858,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__11$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1270,00001270):a}
+		:i $Links$ = :a{%i(1272,00001272):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5308.342773,98.954865,11656.203125)
@@ -12846,7 +12868,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__12$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1271,00001271):a}
+		:i $Links$ = :a{%i(1273,00001273):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5261.808105,134.866913,11616.798828)
@@ -12856,7 +12878,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__13$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1272,00001272):a}
+		:i $Links$ = :a{%i(1274,00001274):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5245.574707,191.137421,11602.775391)
@@ -12866,7 +12888,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__14$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1273,00001273):a}
+		:i $Links$ = :a{%i(1275,00001275):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5166.978027,191.831085,11536.745117)
@@ -12876,7 +12898,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__15$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1274,00001274):a}
+		:i $Links$ = :a{%i(1276,00001276):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5115.700684,192.268646,11447.787109)
@@ -12886,7 +12908,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__16$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1275,00001275):a}
+		:i $Links$ = :a{%i(1277,00001277):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5097.926758,192.397247,11346.718750)
@@ -12896,7 +12918,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__17$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1276,00001276):a}
+		:i $Links$ = :a{%i(1278,00001278):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5115.776855,192.201660,11245.599609)
@@ -12906,7 +12928,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__18$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1277,00001277):a}
+		:i $Links$ = :a{%i(1279,00001279):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5167.120605,191.705231,11156.745117)
@@ -12916,7 +12938,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__19$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1278,00001278):a}
+		:i $Links$ = :a{%i(1280,00001280):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5245.767090,190.967865,11090.774414)
@@ -12926,7 +12948,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__20$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1279,00001279):a}
+		:i $Links$ = :a{%i(1281,00001281):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5262.010254,134.688080,11076.735352)
@@ -12936,7 +12958,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__21$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1280,00001280):a}
+		:i $Links$ = :a{%i(1282,00001282):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5308.575195,98.749908,11037.391602)
@@ -12946,7 +12968,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__22$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1281,00001281):a}
+		:i $Links$ = :a{%i(1283,00001283):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5413.924316,91.761871,10948.995117)
@@ -12956,7 +12978,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__23$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1282,00001282):a}
+		:i $Links$ = :a{%i(1284,00001284):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5442.041992,91.464722,10915.961914)
@@ -12966,7 +12988,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__24$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1283,00001283):a}
+		:i $Links$ = :a{%i(1285,00001285):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5445.251953,91.462860,10906.526367)
@@ -12976,7 +12998,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__25$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1284,00001284):a}
+		:i $Links$ = :a{%i(1286,00001286):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5445.271973,91.445129,10853.069336)
@@ -12986,7 +13008,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__26$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1285,00001285):a}
+		:i $Links$ = :a{%i(1287,00001287):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5455.507324,91.341919,10822.346680)
@@ -12996,7 +13018,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__27$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1286,00001286):a}
+		:i $Links$ = :a{%i(1288,00001288):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5461.391602,91.286163,10815.641602)
@@ -13006,7 +13028,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__28$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1287,00001287):a}
+		:i $Links$ = :a{%i(1289,00001289):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(5493.412598,90.991211,10804.962891)
@@ -13016,7 +13038,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__29$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1288,00001288):a}
+		:i $Links$ = :a{%i(1290,00001290):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6486.622559,82.076904,10805.338867)
@@ -13026,7 +13048,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__30$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1289,00001289):a}
+		:i $Links$ = :a{%i(1291,00001291):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6513.182129,67.959625,10805.353516)
@@ -13036,7 +13058,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__31$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1290,00001290):a}
+		:i $Links$ = :a{%i(1292,00001292):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6772.658691,-135.035172,10805.517578)
@@ -13046,7 +13068,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__32$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1291,00001291):a}
+		:i $Links$ = :a{%i(1293,00001293):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6796.603027,-141.253342,10805.529297)
@@ -13056,7 +13078,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_18__33$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1292,00001292):a}
+		:i $Links$ = :a{%i(1294,00001294):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(6818.727051,-141.454681,10805.537109)
@@ -13075,7 +13097,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_19__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1294,00001294):a}
+		:i $Links$ = :a{%i(1296,00001296):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8536.075195,-148.941986,11049.057617)
@@ -13094,7 +13116,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_20__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1296,00001296):a}
+		:i $Links$ = :a{%i(1298,00001298):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8835.990234,-151.608643,11241.173828)
@@ -13113,7 +13135,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_21__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1298,00001298):a}
+		:i $Links$ = :a{%i(1300,00001300):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7328.967285,127.037270,9087.577148)
@@ -13132,7 +13154,7 @@ $dtredone_NodeArray$ =
 		:i $Name$ = $TRG_RailPath_22__0$
 		:i $TerrainType$ = $TERRAIN_GRINDMETAL$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1300,00001300):a}
+		:i $Links$ = :a{%i(1302,00001302):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(7328.988770,127.017921,9029.139648)
@@ -13411,7 +13433,7 @@ $dtredone_NodeArray$ =
 		:i $Angles$ = %vec3(0.000000,0.000000,0.000000)
 		:i $Name$ = $TRG_Waypoint__0$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1331,00001331):a}
+		:i $Links$ = :a{%i(1333,00001333):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8378.402344,102.133102,7731.632324)
@@ -13428,7 +13450,7 @@ $dtredone_NodeArray$ =
 		:i $Angles$ = %vec3(0.000000,3.141593,0.000000)
 		:i $Name$ = $TRG_Waypoint_01__0$
 		:i $CreatedAtStart$
-		:i $Links$ = :a{%i(1333,00001333):a}
+		:i $Links$ = :a{%i(1335,00001335):a}
 	:i :s}
 	:i :s{
 		:i $Pos$ = %vec3(8306.779297,242.445511,7248.594238)
